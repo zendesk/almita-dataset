@@ -1,4 +1,5 @@
-#  Zendesk ALMA (Agentic Language Model Assessment) Benchmark, or ALMITA dataset
+# Zendesk ALMA 
+## Zendesk ALMA (Agentic Language Model Assessment) Benchmark, or ALMITA dataset
 
 The datasets here are used in "Automated test generation to evaluate tool-augmented LLMs as conversational AI agents", GenBench@EMLP, 2024.
 Arxiv: [https://arxiv.org/abs/2409.15934](https://arxiv.org/abs/2409.15934)
@@ -11,7 +12,7 @@ Arxiv: [https://arxiv.org/abs/2409.15934](https://arxiv.org/abs/2409.15934)
 
 ## Citation
 
-When using ALMITA, please cite its original paper:
+When using Zendesk ALMA (or ALMITA dataset as per the paper), please cite its original paper:
 
 ```bibtex
 @misc{almita2024,
